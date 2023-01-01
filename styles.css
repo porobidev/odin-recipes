@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #FFE0B7;
+}
+
+.recipes-list,
+div {
+    background-color: #fffffff2;
+    border-radius: 25px;
+    border: 2px solid #0d0d0c;
+}
+
+img {
+    width:500px;
+    height: auto;
+
+    /* center image */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
